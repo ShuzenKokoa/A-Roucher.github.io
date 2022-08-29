@@ -1,4 +1,4 @@
-baseurl: https://a-roucher.github.io/a-roucher.github.io
+baseurl: https://a-roucher.github.io/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
