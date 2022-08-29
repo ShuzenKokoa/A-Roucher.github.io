@@ -47,8 +47,8 @@ languages:
             emoji: 🍇
             avatar:
                 enabled: true
-                local: true
-                src: img/mugshot.png
+                local: false
+                src: "/img/mugshot.png"
 
 params:
     mainSections:
