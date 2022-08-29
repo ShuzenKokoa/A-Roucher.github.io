@@ -43,13 +43,9 @@ Alors que le baromètre s’élevait progressivement autour du monde, un nouveau
 « Le vin est le fils du soleil et de la terre, mais il a eu le travail comme accoucheur », disait Paul Claudel, et c’était là une bonne définition de notre beau mot de _Terroir_, qui n’a pas d’équivalent en langue étrangère. Pour un pied de vigne, le sol est important, le climat plus encore, mais il ne faut pas négliger le travail de la vigne. Pour s’adapter au réchauffement climatique, les vignerons n’ont pas attendu les scientifiques. La viticulture mondiale foisonne d’idées nouvelles, et les grands crus bordelais sont depuis des dizaines d’années de véritables laboratoires à ciel ouvert. Toiles d’ombrage, effeuillage réduit, haies, gestion du sol, changement de cépage, de nombreuses pratiques sont déjà à l’oeuvre. Citons par exemple le fait de laisser l’herbe pousser dans les rangs pour augmenter l’albedo du sol – le rayonnement réfléchi vers le ciel au lieu d’être transformé en chaleur.
 Pablo Almaraz, chercheur de l’université de Cadiz, a montré l’impact tangible de cette adaptation. Il a étudié les relations entre la qualité du vin de Bordeaux, rapportée depuis plus d’un siècle par un courtier bordelais, et la température moyenne d’avril à septembre. Il est ainsi parvenu à obtenir une estimation de la température optimale : on obtient alors le graphe ci-dessous, où l’on voit que, depuis 1970, l’augmentation de température est précédée d’une augmentation progressive de la température optimale, qui semble même accélérer depuis 1990.
 
-{{< quote author="Jean-Marc Touzard" source="Interview Vitisphere" url="https://www.vitisphere.com/actualite-95487-la-filiere-viticole-est-exemplaire-pour-aborder-les-enjeux-du-changement-climatique.html">}}
- La filière viticole est exemplaire pour aborder les enjeux du changement climatique car elle est très impactée et les acteurs sont très organisés.  Ils nous questionnent et sont très réactifs à l’échelle nationale, régionale et locale. Elle a aussi une place  importante dans la société française.
-
 Et enfin, comme production avec une plante pérenne, les acteurs eux-mêmes se projettent à au moins 30 ans où les degrés seront forcément plus élevés. Rappelons que +2 degrés, ça veut dire + de 4 degrés sur la surface terrestre; Avec des risques climatiques plus accentués et fréquents.
 
 C'est aussi  exemplaire pour étudier et  mettre en œuvre à l’échelle mondiale des stratégies d'adaptation plus globalement pour d'autres filières. Il faut que la filière en soit consciente
-{{< /quote >}}
 
 ![almaraz](Almaraz.png)
 
