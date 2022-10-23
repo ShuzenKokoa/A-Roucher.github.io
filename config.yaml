@@ -32,22 +32,22 @@ languages:
         weight: 1
         subtitle: "EN"
         sidebar:
-            subtitle: "About weather and wine."
-            emoji: 🍇
+            subtitle: "Climate data science."
+            emoji: 🌍
             avatar:
-                enabled: true
-                local: false
+                enabled: false
+                local: true
                 src: "/img/mugshot.png"
     fr:
         languageName: Français
         weight: 2
         subtitle: "FR"
         sidebar:
-            subtitle: "Quand le vin est tiré, il faut le boire, surtout s'il est bon."
-            emoji: 🍇
+            subtitle: "Du climat, des données."
+            emoji: 🌍
             avatar:
-                enabled: true
-                local: false
+                enabled: false
+                local: true
                 src: "/img/mugshot.png"
 
 params:
