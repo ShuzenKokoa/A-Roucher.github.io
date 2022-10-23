@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Aymeric Roucher</title>
+        <link>https://a-roucher.github.io/page/</link>
+        <description>Recent content in Pages on Aymeric Roucher</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://a-roucher.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Archives</title>
+        <link>https://a-roucher.github.io/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://a-roucher.github.io/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>https://a-roucher.github.io/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://a-roucher.github.io/about/</guid>
+        <description>&lt;p&gt;I&amp;rsquo;m a Data scientist, working at the scale-up Descartes Underwriting.&lt;/p&gt;
+&lt;p&gt;Earlier, I&amp;rsquo;ve been a student in Computer science at Ecole Polytechnique ⚔️ and I graduated in 2021 from University of Cambridge 👨‍🎓. See my &lt;a class=&#34;link&#34; href=&#34;CV_AymericRoucher_03-22.pdf&#34; &gt;Curriculum Vitae&lt;/a&gt; for greater detail.&lt;/p&gt;
+&lt;h3 id=&#34;descartes&#34;&gt;Descartes&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.descartesunderwriting.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Descartes&lt;/a&gt; is a fast-growing french Insurtech, providing insurance against climate risks (cyclones, frost, wildfires&amp;hellip;) to a global set of clients.&lt;/p&gt;
+&lt;p&gt;Climate change would be better named Climate disruption: it causes a sharp increase in weather-related catastrophes. As a result, insured losses are growing, non-insured losses are exploding. We&amp;rsquo;re here to fill the coverage gap.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://a-roucher.github.io/about/sigma-2-2020-figure-15-1.png&#34;
+	width=&#34;1334&#34;
+	height=&#34;739&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Catastrophe losses in B$ (2019 prices), Swiss Re Institute. &amp;gt;80% of this is weather-related, the rest is man-made or earthquake/tsunamis.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;180&#34;
+		data-flex-basis=&#34;433px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The company provides &lt;a class=&#34;link&#34; href=&#34;https://corporatesolutions.swissre.com/insights/knowledge/what_is_parametric_insurance.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;parametric insurance&lt;/a&gt;, a new kind of insurance in which the payment following an event is not subject an expert&amp;rsquo;s validation, but automatically triggered according to a predefined weather index. It could be for instance : &amp;ldquo;If a cyclone&amp;rsquo;s eye comes closer than 50km from your GPS coordinates, we pay.&amp;rdquo; This process ensures fast and hassle-free payments for the client, and easier risk calculation for the company - thus lower prices.&lt;/p&gt;
+&lt;p&gt;The company is growing fast : when I joined in September 2021, we were only 30 FTEs, now we&amp;rsquo;re coming close to 100.&lt;/p&gt;
+&lt;h3 id=&#34;my-job-there&#34;&gt;My job there&lt;/h3&gt;
+&lt;p&gt;I joined the company to prototype and launch new  products. Each product requires a vast set of competencies, and heavily relies on a data, from the sourcing of weather data from a third-party, to the risk calculations based on historical events and stochastic models.&lt;/p&gt;
+&lt;p&gt;This means I constantly keep watching for new evolutions of the climate risks all over the globe, which is a worryisome, but truly captivating subject.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://a-roucher.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://a-roucher.github.io/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
