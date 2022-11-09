@@ -20,14 +20,14 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://a-roucher.github.io/fr/a-propos/</guid>
-        <description>&lt;p&gt;Je suis un Data scientist dans la start-up d&amp;rsquo;assurancce climatique Descartes Underwriting.&lt;/p&gt;
+        <description>&lt;p&gt;Je suis un Data scientist dans la start-up d&amp;rsquo;assurance climatique Descartes Underwriting.&lt;/p&gt;
 &lt;p&gt;Auparavant, j&amp;rsquo;ai suivi le cursus ingénieur à Polytechnique ⚔️ avec une spécialisation en informatique - science des données, et j&amp;rsquo;ai fini mon parcours par un master à Cambridge 🇬🇧. Voir mon &lt;a class=&#34;link&#34; href=&#34;CV_AymericRoucher_03-22.pdf&#34; &gt;Curriculum Vitae&lt;/a&gt; pour plus de d´étails.&lt;/p&gt;
 &lt;h3 id=&#34;descartes&#34;&gt;Descartes&lt;/h3&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.descartesunderwriting.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Descartes&lt;/a&gt; est une start-up en pleine croissance, qui fournit des assurances dans le monde entier contre les risques climatiques : cyclones, feux de forêt, tremblements de terre, sécheresse&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Le réchauffement climatique est en fait un grand dérèglement du climat : il augmente généralement la fréquence des catastrophes naturelles. De ce fait, les pertes économiques augmentent, et les pertes non-assurées explosent.
-Descartes a pour mission de fournir une protection financière.
-&lt;img src=&#34;https://a-roucher.github.io/fr/a-propos/sigma-2-2020-figure-15-1.png&#34;
+Descartes a pour mission de fournir un matelas financier contre les risques climatiques.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://a-roucher.github.io/fr/a-propos/sigma-2-2020-figure-15-1.png&#34;
 	width=&#34;1334&#34;
 	height=&#34;739&#34;
 	
@@ -42,7 +42,7 @@ Descartes a pour mission de fournir une protection financière.
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;L&amp;rsquo;entreprise est spécialisée en &lt;a class=&#34;link&#34; href=&#34;https://corporatesolutions.swissre.com/insights/knowledge/what_is_parametric_insurance.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;assurance paramétrique&lt;/a&gt;, type d&amp;rsquo;assurance dans lequel le payment n&amp;rsquo;est pas soumis, à la validation d&amp;rsquo;un expert lors d&amp;rsquo;une inspection post-sinistre, mais déclenché automatiquement par un paramètre climatique. Cela pourrait être par exemple : &amp;ldquo;Si l&amp;rsquo;oeil d&amp;rsquo;un cyclone passe à moins de 50km de vos coordonnées GPS, le payment se déclenche&amp;rdquo;. Ce processus assure au client des payements rapides et sans litige, et permet aux entreprises de mieux calculer le risque - donc de réduire ses pertes.
+    &gt;assurance paramétrique&lt;/a&gt;, type d&amp;rsquo;assurance dans lequel le payment n&amp;rsquo;est pas soumis à la validation d&amp;rsquo;un expert lors d&amp;rsquo;une inspection post-sinistre, mais déclenché automatiquement par un paramètre climatique. Cela pourrait être par exemple : &amp;ldquo;Si l&amp;rsquo;oeil d&amp;rsquo;un cyclone passe à moins de 50km de vos coordonnées GPS, le payment se déclenche&amp;rdquo;. Ce processus assure au client des payements rapides et sans litige, et permet aux entreprises de mieux calculer le risque - donc de réduire ses pertes.
 L&amp;rsquo;entreprise croît rapidement : nous étions une trentaine à mon arrivée en septembre 2021, et nous sommes plus de 100 en été 2022.&lt;/p&gt;
 &lt;h3 id=&#34;mon-travail&#34;&gt;Mon travail&lt;/h3&gt;
 &lt;p&gt;J&amp;rsquo;ai rejoint Descartes pour prototyper et lancer les nouveaux produits. De par la nature paramétrique de nos produits, comme l&amp;rsquo;évaluation du risque et celle des dommages se font par des données, le lancement d&amp;rsquo;un nouveau produit met un jeu un large spectre de compétences en Data. Cela va des accords passées avec un fournisseur de données tiers jusqu&amp;rsquo;aux rencontres clients pour proposer le produit, en passant par la construction de modèles qui simulent des évènements extrêmes pour estimer le risque : les sujets abordés sont très stimulants.&lt;/p&gt;

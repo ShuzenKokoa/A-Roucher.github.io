@@ -1,3 +1,13 @@
 .gallery-image {
     width:65%;
 }
+.sidebar{
+    width:30%;
+}
+.custom-box{
+    padding:1em;
+    background-color: var(--tr-even-background-color);
+    border-left: solid 4px;
+    border-radius: 4px;
+    color: var(--accent-color);
+}
