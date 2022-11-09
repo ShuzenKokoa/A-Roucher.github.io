@@ -13,7 +13,7 @@ Un économiste américain, Orley Ashenfelter, mit cette relation en équation : 
 &lt;p>Observe-t-on une migration massive des vignobles européens vers le Nord ?
 Voyez vous-mêmes.&lt;/p>
 &lt;blockquote>
-&lt;iframe seamless src="vineyard_map/index.html" width=100% height=500px style=border:none;overflow:hidden; allowfullscreen>&lt;/iframe>
+&lt;iframe seamless src="vineyard_map/index.html" width=100% height=500px style=border:none;overflow:hidden; scrolling=no allowfullscreen>&lt;/iframe>
 &lt;p>Evolution de la surface des vignobles entre 2000 et 2018.
 En noir les surfaces restées des vignobles, en vert les nouvelles surfaces de vignobles, en rouge les surfaces passées à un autre usage. S&amp;rsquo;il existait une migration générale des vignobles vers les latitudes plus froides, on devrait avoir une dominante verte au Nord et rouge au Sud.&lt;/p>
 &lt;/blockquote>

@@ -13,7 +13,7 @@ An American economist, Orley Ashenfelter, put this relationship into an equation
 &lt;p>Are we seeing a massive migration of European vineyards to the North?
 See for yourself.&lt;/p>
 &lt;blockquote>
-&lt;iframe seamless src="vineyard_map/index.html" width=100% height=500px style=border:none;overflow:hidden; allowfullscreen>&lt;/iframe>
+&lt;iframe seamless src="vineyard_map/index.html" width=100% height=500px style=border:none;overflow:hidden; scrolling=no allowfullscreen>&lt;/iframe>
 &lt;p>&lt;em>Evolution of the surface of vineyards between 2000 and 2018.&lt;/em>
 &lt;em>In black the areas that remained vineyards, in green the new vineyard areas, in red the areas that were changed to another use. If there was a general migration of vineyards to colder latitudes, we should have a green dominance in the North and red in the South.&lt;/em>&lt;/p>
 &lt;/blockquote>
