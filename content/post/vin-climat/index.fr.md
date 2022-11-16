@@ -1,7 +1,7 @@
 +++
 author = "Aymeric"
 title = "Le vignoble bordelais sèchera-t-il demain ?"
-date = "2022-06-12"
+date = "2022-11-12"
 description = "A propos de l'impact du réchauffement sur la viticulture."
 categories = [
     "wine",

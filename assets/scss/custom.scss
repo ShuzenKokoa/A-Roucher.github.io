@@ -11,3 +11,36 @@
     border-radius: 4px;
     color: var(--accent-color);
 }
+dl > dt:before {
+    content: ' ';
+    background: var(--tr-even-background-color);
+    display: inline-block;
+    position: absolute;
+    border-radius: 50%;
+    border: 3px solid; /* was #22c0e8 */
+    width: 20px;
+    height: 20px;
+    margin-left: -50px;
+    margin-top:3px;
+    z-index: 4;
+}
+dl > dt { /*pour l'ensemble*/
+    margin-left: 40px; /* was 20px */
+    font-weight: bolder;
+    font-size: 1.2em;
+}
+dl > dd { /*pour l'ensemble*/
+    position:relative;
+    padding-bottom:20px;
+}
+dl > dd:before { /*pour l'ensemble*/
+    content: ' ';
+    background: var(--accent-color);
+    display: block;
+    width: 2px;
+    height: 100%;
+    z-index: 3;
+    position:absolute;
+    margin-left:-40px;
+    margin-top:-10px;
+}
