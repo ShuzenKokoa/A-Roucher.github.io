@@ -6,20 +6,36 @@
         <description>Recent content in Categories on Aymeric Roucher</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a-roucher.github.io/fr/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 12 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://a-roucher.github.io/fr/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>statistics</title>
         <link>https://a-roucher.github.io/fr/categories/statistics/</link>
-        <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
         
         <guid>https://a-roucher.github.io/fr/categories/statistics/</guid>
         <description></description>
         </item>
         <item>
-        <title>wine</title>
+        <title>Vin</title>
         <link>https://a-roucher.github.io/fr/categories/wine/</link>
-        <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
         
         <guid>https://a-roucher.github.io/fr/categories/wine/</guid>
+        <description>&lt;img src="https://a-roucher.github.io/fr/categories/wine/wine.jpg" alt="Featured image of post Vin" /&gt;</description>
+        </item>
+        <item>
+        <title>Agriculture</title>
+        <link>https://a-roucher.github.io/fr/categories/agriculture/</link>
+        <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://a-roucher.github.io/fr/categories/agriculture/</guid>
+        <description>&lt;img src="https://a-roucher.github.io/fr/categories/agriculture/agriculture.jpg" alt="Featured image of post Agriculture" /&gt;</description>
+        </item>
+        <item>
+        <title>international relations</title>
+        <link>https://a-roucher.github.io/fr/categories/international-relations/</link>
+        <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://a-roucher.github.io/fr/categories/international-relations/</guid>
         <description></description>
         </item>
         
